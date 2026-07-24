@@ -1,0 +1,6 @@
+# Raw brand asset pack (large binaries: AI, CMYK print exports, etc.) — not UI code
+Minder - Brand Pack/
+.DS_Store
+
+# Local backups made during editing sessions
+*.bak-*.html
